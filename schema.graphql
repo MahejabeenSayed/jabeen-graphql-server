@@ -1,0 +1,33 @@
+type Query {
+  students: [Student]
+  studentById(id: ID!): Student
+  colleges: [College]
+}
+type Mutation {
+  createStudent(input: StudentInput): Student
+  createStudent_validation(input: StudentInput): String
+}
+
+input StudentInput {
+  firstName: String!
+  lastName: String!
+  collegeId: ID!
+  email: String!
+}
+
+type Student {
+  id: ID!
+  firstName: String
+  lastName: String
+  fullName: String
+  college: College
+  email: String
+}
+
+type College {
+  id: ID!
+  name: String
+  location: String
+  rating: Float
+  students: [Student]
+}

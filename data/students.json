@@ -1,0 +1,124 @@
+[
+  {
+    "id": "S1001",
+    "firstName": "Mohtashim",
+    "lastName": "Mohammad",
+    "email": "mohtashim.mohammad@tutorialpoint.org",
+    "password": "pass123",
+    "collegeId": "col-102"
+  },
+  {
+    "id": "S1002",
+    "email": "kannan.sudhakaran@tutorialpoint.org",
+    "firstName": "Kannan",
+    "lastName": "Sudhakaran",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "S1003",
+    "email": "kiran.panigrahi@tutorialpoint.org",
+    "firstName": "Kiran",
+    "lastName": "Panigrahi",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "rJh3cfSp5",
+    "collegeId": "col-2",
+    "firstName": "jabeen",
+    "lastName": "sayed",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "Hye-sRD6c",
+    "collegeId": "col-2",
+    "firstName": "jabeen",
+    "lastName": "sayed",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "HJWzjRw6c",
+    "collegeId": "col-2",
+    "firstName": "jabeen",
+    "lastName": "sayed",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "H1Y5sCvpq",
+    "collegeId": "col-2",
+    "firstName": "jabeen",
+    "lastName": "sayed",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "r1k3sAPpc",
+    "collegeId": "col-2",
+    "firstName": "jabeen",
+    "lastName": "sayed",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "S1tnsCv6q",
+    "collegeId": "col-2",
+    "firstName": "jabeen",
+    "lastName": "sayed",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "HkgFhoCDa9",
+    "collegeId": "col-2",
+    "firstName": "jabeen",
+    "lastName": "sayed",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "Sy52sCP6q",
+    "collegeId": "col-2",
+    "firstName": "jabeen",
+    "lastName": "sayed",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "SJe5niRPT5",
+    "collegeId": "col-2",
+    "firstName": "jabeen",
+    "lastName": "sayed",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "rysns0vaq",
+    "collegeId": "col-2",
+    "firstName": "jabeen",
+    "lastName": "sayed",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "H1hhoCD6c",
+    "collegeId": "col-2",
+    "firstName": "jabeen",
+    "lastName": "sayed",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "ry6hi0vpc",
+    "collegeId": "col-2",
+    "firstName": "jabeen",
+    "lastName": "sayed",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "Hk9ga0P6q",
+    "collegeId": "col-2",
+    "firstName": "jjjddd",
+    "lastName": "jjjdd",
+    "email": "dsfsd@gmail.com"
+  },
+  {
+    "id": "BJz5aRDaq",
+    "collegeId": "col-2",
+    "firstName": "new name",
+    "lastName": "new sirname",
+    "email": "jjj@jj.com"
+  }
+]
